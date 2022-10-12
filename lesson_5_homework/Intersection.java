@@ -1,4 +1,4 @@
-package lesson_3_homework;
+package lesson_5_homework;
 
 import java.util.HashSet;
 import java.util.Set;
